@@ -1,0 +1,35 @@
+.wrap ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.social ul {
+    padding: 0 30px;
+    background: white;
+    width: 100%;
+    padding: 0;
+}
+.social ul li{
+    font-family: sans-serif;
+    padding-right:100px;
+}
+.social ul li:first-child{
+    padding-left: 38%;
+}
+.hero img {
+    margin: auto;
+    height: 100%;
+    width: 100%;
+}
+.centered h1 {
+    font-size: 50px;
+    color: white;
+}
+
+.centered a{
+    text-decoration: none;
+}
+.submit li{
+    text-align: center;
+    width:auto;
+}
